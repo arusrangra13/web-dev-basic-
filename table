@@ -1,17 +1,55 @@
-<table>
-            <tr>
-              <td>sr.no</td>
-              <td>name</td>
-              <td>log in</td>
-            </tr>
-            <tr>
-              <td>1</td>
-              <td>2</td>
-              <td>3</td>
-            </tr>
-            <tr>
-              <td>4</td>
-              <td>5</td>
-              <td>5</td>
-            </tr>
-        </table>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+     <table border="1">
+
+  <thead>
+    <tr>
+      <th>Student ID</th>
+      <th>Student Name</th>
+      <th>Gender</th>
+      <th>Age</th>
+    </tr>
+  </thead>
+
+  <tbody>
+    <tr>
+      <td>2330076</td>
+      <td>Arus</td>
+      <td>Male</td>
+      <td>20</td>
+    </tr>
+
+    <tr>
+      <td>2330103</td>
+      <td>Gautam</td>
+      <td>male</td>
+      <td>20</td>
+    </tr>
+
+    <tr>
+      <td>2330138</td>
+      <td>Shivraj</td>
+      <td>male</td>
+      <td>22</td>
+    </tr>
+
+    <tr>
+      <td>2330052</td>
+      <td>Abhishek</td>
+      <td>Male</td>
+      <td>22</td>
+    </tr>
+  </tbody>
+</table>
+
+
+     
+     </table>
+</body>
+</html>
