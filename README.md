@@ -1,2 +1,6 @@
-# web-dev-basic-
-this is my first
+web-development-project/
+│
+├── index.html
+├── style.css
+├── script.js
+└── README.md
